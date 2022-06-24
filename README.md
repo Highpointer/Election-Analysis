@@ -9,6 +9,5 @@ This election was the 1st Congressional District in Colorado in 2018. The distri
 
 Below are outputs of the Python script to audit the data presented on the terminal, and the same output written to a text file:
 
-![Election-Analysis_display_on_Terminal](Resources/Election-Analysis_display_on_Terminal.png)
- 
+![Election-Analysis_display_on_Terminal](Resources/Election-Analysis_display_on_Terminal.png)  
 ![Election-Analysis_output_in_text_file](Resources/Election-Analysis_output_in_text_file.png)
