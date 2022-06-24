@@ -5,7 +5,7 @@ A Colorado Board of Elections employee gave me tasks to complete the election au
 
 This election was the 1st Congressional District in Colorado in 2018. The district encompassed the City and County of Denver and parts of two adjacent counties, Jefferson and Arapaho. 
 
-![Election-Analysis_display_on_Terminal](Resources/Colorado1stCongressionalDistrictElection.png)
+![Election-Analysis_display_on_Terminal](Resources/Colorado1stCongressionalDistrictElection2018.png)
 
 ![Election-Analysis_display_on_Terminal](Resources/Election-Analysis_display_on_Terminal.png)
 ![Election-Analysis_output_in_text_file](Resources/Election-Analysis_output_in_text_file.png)
